@@ -1,0 +1,10 @@
+{
+"uuid": "eur-btc-wallet@cinnamon.org",
+"name": "btcwallet in euro",
+"description": "show the value in euro of your bitcoin wallet",
+"max-instances": 1,
+"version": "0.1",
+ "creator": "Daniele Frisanco",
+ "mail": "daniele.frisanco@gmail.com",
+ "icon": "/bitcoin38.png"
+}
